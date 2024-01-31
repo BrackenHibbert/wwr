@@ -1,6 +1,17 @@
+body {
+    background-color: #225560;
+}
 #content {
     max-width: 1600px;
     margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+header {
+    background-color: #DADFF7;
+}
+nav a:hover {
+    background-color: #CF5C36;
 }
 nav a {
 
@@ -14,9 +25,30 @@ nav a {
 .button-box {
 
 }
+.book {
+    background-color: #225560;
+}
+.book:hover {
+    background-color: #DADFF7;
+}
 main section {
 
 }
+.join {
+    background-color: #DADFF7;
+}
+.join:hover {
+    background-color:  #225560;
+}
+.msg {
+    background-color: #DADFF7;
+    color: black;
+}
+footer {
+    background-color: #DADFF7;
+    color: black;
+}
 #background {
     height: 725px;
+    background-color: #225560;
 }

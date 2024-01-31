@@ -12,9 +12,16 @@ header {
 }
 nav a:hover {
     background-color: #CF5C36;
+    color: navy;
 }
 nav a {
-
+    color: navy;
+}
+.home-title {
+    color: #CF5C36;
+}
+h4 {
+    font-style: italic;
 }
 #hero-msg h1 {
 
@@ -27,6 +34,7 @@ nav a {
 }
 .book {
     background-color: #225560;
+    color: #CF5C36;
 }
 .book:hover {
     background-color: #DADFF7;
@@ -36,9 +44,10 @@ main section {
 }
 .join {
     background-color: #DADFF7;
+    color: navy;
 }
 .join:hover {
-    background-color:  #225560;
+    background-color:  #CF5C36;
 }
 .msg {
     background-color: #DADFF7;
@@ -46,7 +55,13 @@ main section {
 }
 footer {
     background-color: #DADFF7;
-    color: black;
+    color: navy;
+}
+footer a {
+    color: navy;
+}
+footer a:hover {
+    color: #CF5C36;
 }
 #background {
     height: 725px;

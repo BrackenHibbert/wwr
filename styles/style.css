@@ -113,6 +113,10 @@ main section img {
 .join:hover {
     background-color:  #CF5C36;
 }
+.campsite-intro {
+    text-align: center;
+    margin: 12%;
+}
 .card-img {
     border: 5px solid #CF5C36;
     width: 100%;
